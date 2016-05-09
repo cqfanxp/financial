@@ -8,7 +8,10 @@
 
 #import "ViewController.h"
 
-@interface ViewController ()
+@interface ViewController (){
+    
+    __weak IBOutlet UIImageView *_backgroud;
+}
 
 @end
 
@@ -16,7 +19,22 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    
+    _backgroud.userInteractionEnabled = YES;
+    
+    UITapGestureRecognizer *singleTap = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(onClickImage)];
+    [_backgroud addGestureRecognizer:singleTap];
+}
+
+-(void)onClickImage{
+    UIStoryboard *sb = [UIStoryboard storyboardWithName:@"Home" bundle:nil];
+    UIViewController *view = [sb instantiateInitialViewController];
+    
+    //----
+    
+    [view setModalTransitionStyle:UIModalTransitionStyleCrossDissolve];
+    
+    [self presentViewController:view animated:YES completion:nil];
 }
 
 - (void)didReceiveMemoryWarning {

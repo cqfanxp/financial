@@ -7,15 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4A24025D1CDF4C81002B4D87 /* FastAmountRaisedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A24025C1CDF4C81002B4D87 /* FastAmountRaisedViewController.m */; };
+		4A24025F1CDF4D37002B4D87 /* FastAmountRaised.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4A24025E1CDF4D37002B4D87 /* FastAmountRaised.plist */; };
+		4A2402611CDF8394002B4D87 /* QuickOfficeCard.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4A2402601CDF8394002B4D87 /* QuickOfficeCard.plist */; };
+		4A2402641CDF83B5002B4D87 /* QuickOfficeCardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A2402631CDF83B5002B4D87 /* QuickOfficeCardViewController.m */; };
+		4A2402671CDF83DE002B4D87 /* CreditLoansViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A2402661CDF83DE002B4D87 /* CreditLoansViewController.m */; };
+		4A2402691CDF862E002B4D87 /* CreditLoans.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4A2402681CDF862E002B4D87 /* CreditLoans.plist */; };
+		4A24026C1CDF922E002B4D87 /* WebModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A24026B1CDF922E002B4D87 /* WebModel.m */; };
 		571030991CDC48E9008AD6CC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 571030981CDC48E9008AD6CC /* main.m */; };
 		5710309C1CDC48E9008AD6CC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5710309B1CDC48E9008AD6CC /* AppDelegate.m */; };
 		5710309F1CDC48E9008AD6CC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5710309E1CDC48E9008AD6CC /* ViewController.m */; };
 		571030A21CDC48E9008AD6CC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 571030A01CDC48E9008AD6CC /* Main.storyboard */; };
 		571030A41CDC48E9008AD6CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 571030A31CDC48E9008AD6CC /* Assets.xcassets */; };
 		571030A71CDC48E9008AD6CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 571030A51CDC48E9008AD6CC /* LaunchScreen.storyboard */; };
+		571030B61CDC4E68008AD6CC /* Home.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 571030B51CDC4E68008AD6CC /* Home.storyboard */; };
+		571030B91CDCA6D7008AD6CC /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 571030B81CDCA6D7008AD6CC /* MainViewController.m */; };
+		571030BD1CDCB3B8008AD6CC /* menu_app.plist in Resources */ = {isa = PBXBuildFile; fileRef = 571030BC1CDCB3B8008AD6CC /* menu_app.plist */; };
+		571030C81CDCB7AD008AD6CC /* AppListCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 571030C61CDCB7AD008AD6CC /* AppListCell.m */; };
+		571030C91CDCB7AD008AD6CC /* AppListCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 571030C71CDCB7AD008AD6CC /* AppListCell.xib */; };
+		571C3BE51CDD9237001958FF /* NJKWebViewProgress.m in Sources */ = {isa = PBXBuildFile; fileRef = 571C3BE21CDD9237001958FF /* NJKWebViewProgress.m */; };
+		571C3BE61CDD9237001958FF /* NJKWebViewProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 571C3BE41CDD9237001958FF /* NJKWebViewProgressView.m */; };
+		571C3BE91CDD945D001958FF /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 571C3BE81CDD945D001958FF /* WebViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4A24025B1CDF4C81002B4D87 /* FastAmountRaisedViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FastAmountRaisedViewController.h; sourceTree = "<group>"; };
+		4A24025C1CDF4C81002B4D87 /* FastAmountRaisedViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FastAmountRaisedViewController.m; sourceTree = "<group>"; };
+		4A24025E1CDF4D37002B4D87 /* FastAmountRaised.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = FastAmountRaised.plist; sourceTree = "<group>"; };
+		4A2402601CDF8394002B4D87 /* QuickOfficeCard.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = QuickOfficeCard.plist; sourceTree = "<group>"; };
+		4A2402621CDF83B5002B4D87 /* QuickOfficeCardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QuickOfficeCardViewController.h; sourceTree = "<group>"; };
+		4A2402631CDF83B5002B4D87 /* QuickOfficeCardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuickOfficeCardViewController.m; sourceTree = "<group>"; };
+		4A2402651CDF83DE002B4D87 /* CreditLoansViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreditLoansViewController.h; sourceTree = "<group>"; };
+		4A2402661CDF83DE002B4D87 /* CreditLoansViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreditLoansViewController.m; sourceTree = "<group>"; };
+		4A2402681CDF862E002B4D87 /* CreditLoans.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = CreditLoans.plist; sourceTree = "<group>"; };
+		4A24026A1CDF922E002B4D87 /* WebModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebModel.h; sourceTree = "<group>"; };
+		4A24026B1CDF922E002B4D87 /* WebModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebModel.m; sourceTree = "<group>"; };
 		571030941CDC48E9008AD6CC /* financial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = financial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		571030981CDC48E9008AD6CC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5710309A1CDC48E9008AD6CC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -26,6 +52,20 @@
 		571030A31CDC48E9008AD6CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		571030A61CDC48E9008AD6CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		571030A81CDC48E9008AD6CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		571030B51CDC4E68008AD6CC /* Home.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Home.storyboard; sourceTree = "<group>"; };
+		571030B71CDCA6D7008AD6CC /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		571030B81CDCA6D7008AD6CC /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		571030BC1CDCB3B8008AD6CC /* menu_app.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = menu_app.plist; sourceTree = "<group>"; };
+		571030BF1CDCB5CE008AD6CC /* Public.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Public.h; sourceTree = "<group>"; };
+		571030C51CDCB7AD008AD6CC /* AppListCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppListCell.h; sourceTree = "<group>"; };
+		571030C61CDCB7AD008AD6CC /* AppListCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppListCell.m; sourceTree = "<group>"; };
+		571030C71CDCB7AD008AD6CC /* AppListCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AppListCell.xib; sourceTree = "<group>"; };
+		571C3BE11CDD9237001958FF /* NJKWebViewProgress.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NJKWebViewProgress.h; sourceTree = "<group>"; };
+		571C3BE21CDD9237001958FF /* NJKWebViewProgress.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NJKWebViewProgress.m; sourceTree = "<group>"; };
+		571C3BE31CDD9237001958FF /* NJKWebViewProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NJKWebViewProgressView.h; sourceTree = "<group>"; };
+		571C3BE41CDD9237001958FF /* NJKWebViewProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NJKWebViewProgressView.m; sourceTree = "<group>"; };
+		571C3BE71CDD945D001958FF /* WebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
+		571C3BE81CDD945D001958FF /* WebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,14 +98,9 @@
 		571030961CDC48E9008AD6CC /* financial */ = {
 			isa = PBXGroup;
 			children = (
-				5710309A1CDC48E9008AD6CC /* AppDelegate.h */,
-				5710309B1CDC48E9008AD6CC /* AppDelegate.m */,
-				5710309D1CDC48E9008AD6CC /* ViewController.h */,
-				5710309E1CDC48E9008AD6CC /* ViewController.m */,
-				571030A01CDC48E9008AD6CC /* Main.storyboard */,
-				571030A31CDC48E9008AD6CC /* Assets.xcassets */,
-				571030A51CDC48E9008AD6CC /* LaunchScreen.storyboard */,
-				571030A81CDC48E9008AD6CC /* Info.plist */,
+				571030BE1CDCB499008AD6CC /* tool */,
+				571030AE1CDC4DE1008AD6CC /* Class */,
+				571030B21CDC4DE1008AD6CC /* Data */,
 				571030971CDC48E9008AD6CC /* Supporting Files */,
 			);
 			path = financial;
@@ -74,9 +109,95 @@
 		571030971CDC48E9008AD6CC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5710309A1CDC48E9008AD6CC /* AppDelegate.h */,
+				5710309B1CDC48E9008AD6CC /* AppDelegate.m */,
+				5710309D1CDC48E9008AD6CC /* ViewController.h */,
+				5710309E1CDC48E9008AD6CC /* ViewController.m */,
+				571030A01CDC48E9008AD6CC /* Main.storyboard */,
+				571030A31CDC48E9008AD6CC /* Assets.xcassets */,
+				571030A51CDC48E9008AD6CC /* LaunchScreen.storyboard */,
+				571030A81CDC48E9008AD6CC /* Info.plist */,
 				571030981CDC48E9008AD6CC /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		571030AE1CDC4DE1008AD6CC /* Class */ = {
+			isa = PBXGroup;
+			children = (
+				571030AF1CDC4DE1008AD6CC /* Controller */,
+				571030B01CDC4DE1008AD6CC /* Model */,
+				571030B11CDC4DE1008AD6CC /* View */,
+			);
+			path = Class;
+			sourceTree = "<group>";
+		};
+		571030AF1CDC4DE1008AD6CC /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				571030B71CDCA6D7008AD6CC /* MainViewController.h */,
+				571030B81CDCA6D7008AD6CC /* MainViewController.m */,
+				571C3BE71CDD945D001958FF /* WebViewController.h */,
+				571C3BE81CDD945D001958FF /* WebViewController.m */,
+				4A24025B1CDF4C81002B4D87 /* FastAmountRaisedViewController.h */,
+				4A24025C1CDF4C81002B4D87 /* FastAmountRaisedViewController.m */,
+				4A2402621CDF83B5002B4D87 /* QuickOfficeCardViewController.h */,
+				4A2402631CDF83B5002B4D87 /* QuickOfficeCardViewController.m */,
+				4A2402651CDF83DE002B4D87 /* CreditLoansViewController.h */,
+				4A2402661CDF83DE002B4D87 /* CreditLoansViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		571030B01CDC4DE1008AD6CC /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				4A24026A1CDF922E002B4D87 /* WebModel.h */,
+				4A24026B1CDF922E002B4D87 /* WebModel.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		571030B11CDC4DE1008AD6CC /* View */ = {
+			isa = PBXGroup;
+			children = (
+				571030C51CDCB7AD008AD6CC /* AppListCell.h */,
+				571030C61CDCB7AD008AD6CC /* AppListCell.m */,
+				571030C71CDCB7AD008AD6CC /* AppListCell.xib */,
+				571030B51CDC4E68008AD6CC /* Home.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		571030B21CDC4DE1008AD6CC /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				571030BC1CDCB3B8008AD6CC /* menu_app.plist */,
+				4A24025E1CDF4D37002B4D87 /* FastAmountRaised.plist */,
+				4A2402601CDF8394002B4D87 /* QuickOfficeCard.plist */,
+				4A2402681CDF862E002B4D87 /* CreditLoans.plist */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		571030BE1CDCB499008AD6CC /* tool */ = {
+			isa = PBXGroup;
+			children = (
+				571C3BE01CDD9237001958FF /* NJKWebViewProgress */,
+				571030BF1CDCB5CE008AD6CC /* Public.h */,
+			);
+			path = tool;
+			sourceTree = "<group>";
+		};
+		571C3BE01CDD9237001958FF /* NJKWebViewProgress */ = {
+			isa = PBXGroup;
+			children = (
+				571C3BE11CDD9237001958FF /* NJKWebViewProgress.h */,
+				571C3BE21CDD9237001958FF /* NJKWebViewProgress.m */,
+				571C3BE31CDD9237001958FF /* NJKWebViewProgressView.h */,
+				571C3BE41CDD9237001958FF /* NJKWebViewProgressView.m */,
+			);
+			path = NJKWebViewProgress;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +258,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				571030A71CDC48E9008AD6CC /* LaunchScreen.storyboard in Resources */,
+				4A24025F1CDF4D37002B4D87 /* FastAmountRaised.plist in Resources */,
+				4A2402611CDF8394002B4D87 /* QuickOfficeCard.plist in Resources */,
 				571030A41CDC48E9008AD6CC /* Assets.xcassets in Resources */,
+				571030BD1CDCB3B8008AD6CC /* menu_app.plist in Resources */,
+				4A2402691CDF862E002B4D87 /* CreditLoans.plist in Resources */,
+				571030C91CDCB7AD008AD6CC /* AppListCell.xib in Resources */,
 				571030A21CDC48E9008AD6CC /* Main.storyboard in Resources */,
+				571030B61CDC4E68008AD6CC /* Home.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -149,9 +276,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A24026C1CDF922E002B4D87 /* WebModel.m in Sources */,
+				4A2402641CDF83B5002B4D87 /* QuickOfficeCardViewController.m in Sources */,
+				4A24025D1CDF4C81002B4D87 /* FastAmountRaisedViewController.m in Sources */,
+				4A2402671CDF83DE002B4D87 /* CreditLoansViewController.m in Sources */,
 				5710309F1CDC48E9008AD6CC /* ViewController.m in Sources */,
+				571030C81CDCB7AD008AD6CC /* AppListCell.m in Sources */,
+				571C3BE61CDD9237001958FF /* NJKWebViewProgressView.m in Sources */,
+				571C3BE91CDD945D001958FF /* WebViewController.m in Sources */,
 				5710309C1CDC48E9008AD6CC /* AppDelegate.m in Sources */,
 				571030991CDC48E9008AD6CC /* main.m in Sources */,
+				571C3BE51CDD9237001958FF /* NJKWebViewProgress.m in Sources */,
+				571030B91CDCA6D7008AD6CC /* MainViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,6 +402,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = financial/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jucaidao.financial;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -277,6 +414,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = financial/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jucaidao.financial;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -302,6 +440,7 @@
 				571030AD1CDC48E9008AD6CC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
