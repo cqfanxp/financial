@@ -30,7 +30,6 @@
     UIStoryboard *sb = [UIStoryboard storyboardWithName:@"Home" bundle:nil];
     UIViewController *view = [sb instantiateInitialViewController];
     
-    //-------
     
     [view setModalTransitionStyle:UIModalTransitionStyleCrossDissolve];
     
