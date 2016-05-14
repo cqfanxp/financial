@@ -11,8 +11,6 @@
 #import "AppListCell.h"
 #import "WebViewController.h"
 
-#define HeadH (screen_width/1.8)
-
 @interface MainViewController ()<UICollectionViewDataSource,UICollectionViewDelegate,UICollectionViewDelegateFlowLayout>{
     
     UICollectionView *_collection;
@@ -20,6 +18,7 @@
     NSMutableArray *_appData;
     
     UIImageView *_blan;
+    
 }
 
 @end
@@ -39,6 +38,12 @@
     [self initData];
     
     [self initLayout];
+    
+    if (IS_IPAD) {
+        NSLog(@"ipad");
+    }else{
+        NSLog(@"iphone");
+    }
 }
 
 -(void)viewWillAppear:(BOOL)animated{
@@ -63,9 +68,13 @@
     });
     
 }
-
 #pragma mark 初始化布局
 -(void)initLayout{
+    
+    float headH = (screen_width/1.8);
+    if (!IS_IPAD) {
+        headH = (screen_width/1);
+    }
     
     //初始化colletionView的布局
     UICollectionViewFlowLayout *layout = [[UICollectionViewFlowLayout alloc] init];
@@ -75,13 +84,13 @@
     layout.minimumLineSpacing = 1;
     
     //初始化collectionView
-    _collection = [[UICollectionView alloc] initWithFrame:CGRectMake(0, 64, screen_width, screen_height-64) collectionViewLayout:layout];
+    _collection = [[UICollectionView alloc] initWithFrame:CGRectMake(0, 0, screen_width, screen_height) collectionViewLayout:layout];
     //设置代理
     _collection.delegate = self;
     _collection.dataSource = self;
     _collection.backgroundColor = RGB(240, 239, 237);
     
-    _collection.contentInset = UIEdgeInsetsMake(HeadH/2, 0, 0, 0);
+    _collection.contentInset = UIEdgeInsetsMake(headH/2, 0, 0, 0);
     
 //    float num = HeadH;
 //    
@@ -89,13 +98,18 @@
     
     _blan = [[UIImageView alloc] init];
     _blan.image = [UIImage imageNamed:@"blan.jpg"];
-    _blan.frame = CGRectMake(0, -HeadH, screen_width, HeadH);
+    _blan.frame = CGRectMake(0, -headH/2, screen_width, headH/2);
     _blan.userInteractionEnabled = YES;
 //    _blan.contentMode = UIViewContentModeScaleAspectFill;
     [_collection addSubview:_blan];
     
-    //注册Cell
-    [_collection registerNib:[UINib nibWithNibName:@"AppListCell" bundle:nil] forCellWithReuseIdentifier:@"AppListCell"];
+    //注册Cell AppListIpadCell
+    if (IS_IPAD) {
+        [_collection registerNib:[UINib nibWithNibName:@"AppListIpadCell" bundle:nil] forCellWithReuseIdentifier:@"AppListCell"];
+    }else{
+        [_collection registerNib:[UINib nibWithNibName:@"AppListCell" bundle:nil] forCellWithReuseIdentifier:@"AppListCell"];
+    }
+    
     
     [self.view addSubview:_collection];
 

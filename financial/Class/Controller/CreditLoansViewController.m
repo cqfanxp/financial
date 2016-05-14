@@ -77,7 +77,11 @@
     _collection.backgroundColor = RGB(240, 239, 237);
     
     //注册Cell
-    [_collection registerNib:[UINib nibWithNibName:@"AppListCell" bundle:nil] forCellWithReuseIdentifier:@"AppListCell"];
+    if (IS_IPAD) {
+        [_collection registerNib:[UINib nibWithNibName:@"AppListIpadCell" bundle:nil] forCellWithReuseIdentifier:@"AppListCell"];
+    }else{
+        [_collection registerNib:[UINib nibWithNibName:@"AppListCell" bundle:nil] forCellWithReuseIdentifier:@"AppListCell"];
+    }
     
     [self.view addSubview:_collection];
     

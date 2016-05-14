@@ -74,4 +74,6 @@
 //错误信息
 //未知错误
 #define UNKNOWNERROR @"系统错误，请稍后再试"
+
+#define IS_IPAD (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
 #endif

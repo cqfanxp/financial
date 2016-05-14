@@ -28,6 +28,7 @@
 		571C3BE51CDD9237001958FF /* NJKWebViewProgress.m in Sources */ = {isa = PBXBuildFile; fileRef = 571C3BE21CDD9237001958FF /* NJKWebViewProgress.m */; };
 		571C3BE61CDD9237001958FF /* NJKWebViewProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 571C3BE41CDD9237001958FF /* NJKWebViewProgressView.m */; };
 		571C3BE91CDD945D001958FF /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 571C3BE81CDD945D001958FF /* WebViewController.m */; };
+		57B019001CE6F4E70031FFE6 /* AppListIpadCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 57B018FF1CE6F4E70031FFE6 /* AppListIpadCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,6 +67,7 @@
 		571C3BE41CDD9237001958FF /* NJKWebViewProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NJKWebViewProgressView.m; sourceTree = "<group>"; };
 		571C3BE71CDD945D001958FF /* WebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
 		571C3BE81CDD945D001958FF /* WebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
+		57B018FF1CE6F4E70031FFE6 /* AppListIpadCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AppListIpadCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -165,6 +167,7 @@
 				571030C61CDCB7AD008AD6CC /* AppListCell.m */,
 				571030C71CDCB7AD008AD6CC /* AppListCell.xib */,
 				571030B51CDC4E68008AD6CC /* Home.storyboard */,
+				57B018FF1CE6F4E70031FFE6 /* AppListIpadCell.xib */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 				571030BD1CDCB3B8008AD6CC /* menu_app.plist in Resources */,
 				4A2402691CDF862E002B4D87 /* CreditLoans.plist in Resources */,
 				571030C91CDCB7AD008AD6CC /* AppListCell.xib in Resources */,
+				57B019001CE6F4E70031FFE6 /* AppListIpadCell.xib in Resources */,
 				571030A21CDC48E9008AD6CC /* Main.storyboard in Resources */,
 				571030B61CDC4E68008AD6CC /* Home.storyboard in Resources */,
 			);
