@@ -84,7 +84,7 @@
     layout.minimumLineSpacing = 1;
     
     //初始化collectionView
-    _collection = [[UICollectionView alloc] initWithFrame:CGRectMake(0, 0, screen_width, screen_height) collectionViewLayout:layout];
+    _collection = [[UICollectionView alloc] initWithFrame:CGRectMake(0, 64, screen_width, screen_height-64) collectionViewLayout:layout];
     //设置代理
     _collection.delegate = self;
     _collection.dataSource = self;

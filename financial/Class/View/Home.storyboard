@@ -21,7 +21,7 @@
             </objects>
             <point key="canvasLocation" x="-73" y="516"/>
         </scene>
-        <!--聚财道-->
+        <!--聚才道-->
         <scene sceneID="Dmu-2e-ot9">
             <objects>
                 <viewController id="S0Y-1r-81y" customClass="MainViewController" sceneMemberID="viewController">
@@ -34,7 +34,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <navigationItem key="navigationItem" title="聚财道" id="eQS-Fn-IYG"/>
+                    <navigationItem key="navigationItem" title="聚才道" id="eQS-Fn-IYG"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="G52-35-i0w" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
