@@ -42,37 +42,13 @@
 		<key>sequence</key>
 		<string>1</string>
 		<key>name</key>
-		<string>金融指南</string>
-		<key>appType</key>
-		<string>1001</string>
-		<key>icon</key>
-		<string>金融指南</string>
-		<key>controller</key>
-		<string>LookingForTalentViewController</string>
-	</dict>
-	<dict>
-		<key>sequence</key>
-		<string>1</string>
-		<key>name</key>
-		<string>微信营销</string>
+		<string>技术论坛</string>
 		<key>appType</key>
 		<string>1002</string>
 		<key>icon</key>
-		<string>微信营销</string>
+		<string>技术论坛</string>
 		<key>url</key>
-		<string>http://www.ysjrlm.com/forum.php?mod=forumdisplay&amp;fid=66</string>
-	</dict>
-	<dict>
-		<key>sequence</key>
-		<string>1</string>
-		<key>name</key>
-		<string>QQ营销</string>
-		<key>appType</key>
-		<string>1002</string>
-		<key>icon</key>
-		<string>QQ营销</string>
-		<key>url</key>
-		<string>http://www.ysjrlm.com/forum.php?mod=forumdisplay&amp;fid=57</string>
+		<string>http://www.helfor.com/bbs/v.aspx</string>
 	</dict>
 	<dict>
 		<key>sequence</key>

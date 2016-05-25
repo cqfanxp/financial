@@ -6,13 +6,25 @@
 		<key>sequence</key>
 		<string>1</string>
 		<key>name</key>
+		<string>北银提额</string>
+		<key>number</key>
+		<string>1005</string>
+		<key>icon</key>
+		<string>北银提额</string>
+		<key>url</key>
+		<string>http://www.helfor.com/te/m.aspx?tag=beijing&amp;app=X1v5ywpg1fgVwQfrJA0yJislc7lc9wZFyKDsHle%2FBOXUzXPcXVBu%2FT0crmQvft9o%0A</string>
+	</dict>
+	<dict>
+		<key>sequence</key>
+		<string>1</string>
+		<key>name</key>
 		<string>广发提额</string>
 		<key>number</key>
 		<string>1005</string>
 		<key>icon</key>
 		<string>广发提额</string>
 		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=1&amp;c=2</string>
+		<string>http://www.helfor.com/te/m.aspx?tag=cgb&amp;app=X1v5ywpg1fgVwQfrJA0yJislc7lc9wZFyKDsHle%2FBOXUzXPcXVBu%2FT0crmQvft9o%0A</string>
 	</dict>
 	<dict>
 		<key>sequence</key>
@@ -24,7 +36,7 @@
 		<key>icon</key>
 		<string>浦发提额</string>
 		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=2&amp;c=2</string>
+		<string>http://www.helfor.com/te/m.aspx?tag=spd&amp;app=X1v5ywpg1fgVwQfrJA0yJislc7lc9wZFyKDsHle%2FBOXUzXPcXVBu%2FT0crmQvft9o%0A</string>
 	</dict>
 	<dict>
 		<key>sequence</key>
@@ -36,7 +48,7 @@
 		<key>icon</key>
 		<string>光大提额</string>
 		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=3&amp;c=2</string>
+		<string>http://www.helfor.com/one/ceb.htm?app=X1v5ywpg1fgVwQfrJA0yJislc7lc9wZFyKDsHle%2FBOXUzXPcXVBu%2FT0crmQvft9o%0A</string>
 	</dict>
 	<dict>
 		<key>sequence</key>
@@ -48,7 +60,7 @@
 		<key>icon</key>
 		<string>兴业提额</string>
 		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=4&amp;c=2</string>
+		<string>http://www.helfor.com/te/m.aspx?tag=cib&amp;app=X1v5ywpg1fgVwQfrJA0yJislc7lc9wZFyKDsHle%2FBOXUzXPcXVBu%2FT0crmQvft9o%0A</string>
 	</dict>
 	<dict>
 		<key>sequence</key>
@@ -60,7 +72,7 @@
 		<key>icon</key>
 		<string>中信提额</string>
 		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=5&amp;c=2</string>
+		<string>http://www.helfor.com/te/m.aspx?tag=ecitic&amp;app=X1v5ywpg1fgVwQfrJA0yJislc7lc9wZFyKDsHle%2FBOXUzXPcXVBu%2FT0crmQvft9o%0A</string>
 	</dict>
 	<dict>
 		<key>sequence</key>
@@ -72,7 +84,7 @@
 		<key>icon</key>
 		<string>平安提额</string>
 		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=6&amp;c=2</string>
+		<string>http://www.helfor.com/one/pingan.htm?app=X1v5ywpg1fgVwQfrJA0yJislc7lc9wZFyKDsHle%2FBOXUzXPcXVBu%2FT0crmQvft9o%0A</string>
 	</dict>
 	<dict>
 		<key>sequence</key>
@@ -84,7 +96,7 @@
 		<key>icon</key>
 		<string>交通提额</string>
 		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=7&amp;c=2</string>
+		<string>http://www.helfor.com/one/comm.htm?app=X1v5ywpg1fgVwQfrJA0yJislc7lc9wZFyKDsHle%2FBOXUzXPcXVBu%2FT0crmQvft9o%0A</string>
 	</dict>
 	<dict>
 		<key>sequence</key>
@@ -96,7 +108,7 @@
 		<key>icon</key>
 		<string>民生提额</string>
 		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=8&amp;c=2</string>
+		<string>http://www.helfor.com/te/m.aspx?tag=cmbc&amp;app=X1v5ywpg1fgVwQfrJA0yJislc7lc9wZFyKDsHle%2FBOXUzXPcXVBu%2FT0crmQvft9o%0A</string>
 	</dict>
 	<dict>
 		<key>sequence</key>
@@ -108,7 +120,7 @@
 		<key>icon</key>
 		<string>招商提额</string>
 		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=9&amp;c=2</string>
+		<string>https://mobile.cmbchina.com/MobileHtml/Login/LoginC.aspx?FJID=9GCo8CT1BWl&amp;app=X1v5ywpg1fgVwQfrJA0yJislc7lc9wZFyKDsHle%2FBOXUzXPcXVBu%2FT0crmQvft9o%0A</string>
 	</dict>
 	<dict>
 		<key>sequence</key>
@@ -120,19 +132,19 @@
 		<key>icon</key>
 		<string>建行提额</string>
 		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=10&amp;c=2</string>
+		<string>http://www.helfor.com/one/ccb.htm?app=X1v5ywpg1fgVwQfrJA0yJislc7lc9wZFyKDsHle%2FBOXUzXPcXVBu%2FT0crmQvft9o%0A</string>
 	</dict>
 	<dict>
 		<key>sequence</key>
 		<string>1</string>
 		<key>name</key>
-		<string>农行提额</string>
+		<string>农业提额</string>
 		<key>number</key>
 		<string>1005</string>
 		<key>icon</key>
 		<string>农行提额</string>
 		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=11&amp;c=2</string>
+		<string>http://www.helfor.com/one/abc.htm?app=X1v5ywpg1fgVwQfrJA0yJislc7lc9wZFyKDsHle%2FBOXUzXPcXVBu%2FT0crmQvft9o%0A</string>
 	</dict>
 	<dict>
 		<key>sequence</key>
@@ -144,103 +156,31 @@
 		<key>icon</key>
 		<string>工行提额</string>
 		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=12&amp;c=2</string>
+		<string>http://www.helfor.com/te/m.aspx?tag=icbc&amp;app=X1v5ywpg1fgVwQfrJA0yJislc7lc9wZFyKDsHle%2FBOXUzXPcXVBu%2FT0crmQvft9o%0A</string>
 	</dict>
 	<dict>
 		<key>sequence</key>
 		<string>1</string>
 		<key>name</key>
-		<string>中行提额</string>
+		<string>花旗提额</string>
 		<key>number</key>
 		<string>1005</string>
 		<key>icon</key>
-		<string>中行提额</string>
+		<string>花旗提额</string>
 		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=13&amp;c=2</string>
+		<string>https://www.citibank.com.cn/CNGCB/JPS/portal/LocaleSwitch.do?locale=zh_CN&amp;app=X1v5ywpg1fgVwQfrJA0yJislc7lc9wZFyKDsHle%2FBOXUzXPcXVBu%2FT0crmQvft9o%0A</string>
 	</dict>
 	<dict>
 		<key>sequence</key>
 		<string>1</string>
 		<key>name</key>
-		<string>华夏提额</string>
+		<string>交通提额</string>
 		<key>number</key>
 		<string>1005</string>
 		<key>icon</key>
-		<string>华夏提额</string>
+		<string>交通提额</string>
 		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=14&amp;c=2</string>
-	</dict>
-	<dict>
-		<key>sequence</key>
-		<string>1</string>
-		<key>name</key>
-		<string>渣打提额</string>
-		<key>number</key>
-		<string>1005</string>
-		<key>icon</key>
-		<string>渣打提额</string>
-		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=15&amp;c=2</string>
-	</dict>
-	<dict>
-		<key>sequence</key>
-		<string>1</string>
-		<key>name</key>
-		<string>东亚提额</string>
-		<key>number</key>
-		<string>1005</string>
-		<key>icon</key>
-		<string>东亚提额</string>
-		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=16&amp;c=2</string>
-	</dict>
-	<dict>
-		<key>sequence</key>
-		<string>1</string>
-		<key>name</key>
-		<string>北银提额</string>
-		<key>number</key>
-		<string>1005</string>
-		<key>icon</key>
-		<string>北银提额</string>
-		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=17&amp;c=2</string>
-	</dict>
-	<dict>
-		<key>sequence</key>
-		<string>1</string>
-		<key>name</key>
-		<string>上海提额</string>
-		<key>number</key>
-		<string>1005</string>
-		<key>icon</key>
-		<string>上海提额</string>
-		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=18&amp;c=2</string>
-	</dict>
-	<dict>
-		<key>sequence</key>
-		<string>1</string>
-		<key>name</key>
-		<string>广州提额</string>
-		<key>number</key>
-		<string>1005</string>
-		<key>icon</key>
-		<string>广州提额</string>
-		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=19&amp;c=2</string>
-	</dict>
-	<dict>
-		<key>sequence</key>
-		<string>1</string>
-		<key>name</key>
-		<string>南商提额</string>
-		<key>number</key>
-		<string>1005</string>
-		<key>icon</key>
-		<string>南商提额</string>
-		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=20&amp;c=2</string>
+		<string>https://creditcardapp.bankcomm.com/idm/sso/login.html?service=https://creditcardapp.bankcomm.com/member/shiro-cas&amp;app=X1v5ywpg1fgVwQfrJA0yJislc7lc9wZFyKDsHle%2FBOXUzXPcXVBu%2FT0crmQvft9o%0A</string>
 	</dict>
 	<dict>
 		<key>sequence</key>
@@ -252,91 +192,7 @@
 		<key>icon</key>
 		<string>邮政提额</string>
 		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=21&amp;c=2</string>
-	</dict>
-	<dict>
-		<key>sequence</key>
-		<string>1</string>
-		<key>name</key>
-		<string>济南提额</string>
-		<key>number</key>
-		<string>1005</string>
-		<key>icon</key>
-		<string>济南提额</string>
-		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=22&amp;c=2</string>
-	</dict>
-	<dict>
-		<key>sequence</key>
-		<string>1</string>
-		<key>name</key>
-		<string>南京提额</string>
-		<key>number</key>
-		<string>1005</string>
-		<key>icon</key>
-		<string>南京提额</string>
-		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=23&amp;c=2</string>
-	</dict>
-	<dict>
-		<key>sequence</key>
-		<string>1</string>
-		<key>name</key>
-		<string>农发提额</string>
-		<key>number</key>
-		<string>1005</string>
-		<key>icon</key>
-		<string>农发提额</string>
-		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=24&amp;c=2</string>
-	</dict>
-	<dict>
-		<key>sequence</key>
-		<string>1</string>
-		<key>name</key>
-		<string>日商提额</string>
-		<key>number</key>
-		<string>1005</string>
-		<key>icon</key>
-		<string>日商提额</string>
-		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=25&amp;c=2</string>
-	</dict>
-	<dict>
-		<key>sequence</key>
-		<string>1</string>
-		<key>name</key>
-		<string>深发提额</string>
-		<key>number</key>
-		<string>1005</string>
-		<key>icon</key>
-		<string>深发提额</string>
-		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=26&amp;c=2</string>
-	</dict>
-	<dict>
-		<key>sequence</key>
-		<string>1</string>
-		<key>name</key>
-		<string>温商提额</string>
-		<key>number</key>
-		<string>1005</string>
-		<key>icon</key>
-		<string>温商提额</string>
-		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=27&amp;c=2</string>
-	</dict>
-	<dict>
-		<key>sequence</key>
-		<string>1</string>
-		<key>name</key>
-		<string>农合提额</string>
-		<key>number</key>
-		<string>1005</string>
-		<key>icon</key>
-		<string>农合提额</string>
-		<key>url</key>
-		<string>http://111876.vhost137.cloudvhost.net/?id=28&amp;c=2</string>
+		<string>http://www.helfor.com/te/m.aspx?tag=psbc&amp;app=X1v5ywpg1fgVwQfrJA0yJislc7lc9wZFyKDsHle%2FBOXUzXPcXVBu%2FT0crmQvft9o%0A</string>
 	</dict>
 </array>
 </plist>
