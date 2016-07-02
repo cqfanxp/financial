@@ -55,6 +55,8 @@
     _webView = [[UIWebView alloc] initWithFrame:CGRectMake(0, 64, screen_width, screen_height-64)];
     [self.view addSubview:_webView];
     
+    _webView.scalesPageToFit = YES;
+    
     _progressProxy = [[NJKWebViewProgress alloc] init];
     _webView.delegate = _progressProxy;
     _progressProxy.webViewProxyDelegate = self;
