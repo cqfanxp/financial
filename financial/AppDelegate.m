@@ -16,7 +16,7 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    //改变UIBarButtonItem字体颜色 
+    //改变UIBarButtonItem字体 颜色 
     [[UINavigationBar appearance] setTintColor:[UIColor blackColor]];
     [[UIApplication sharedApplication] setStatusBarStyle:UIStatusBarStyleLightContent];
     return YES;
