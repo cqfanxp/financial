@@ -28,7 +28,7 @@
 
 -(void)onClickImage{
     UIStoryboard *sb = [UIStoryboard storyboardWithName:@"Home" bundle:nil];
-    UIViewController *view = [sb instantiateInitialViewController];
+    UIViewController *view =  [sb instantiateInitialViewController];
     
     //------
     [view setModalTransitionStyle:UIModalTransitionStyleCrossDissolve];
